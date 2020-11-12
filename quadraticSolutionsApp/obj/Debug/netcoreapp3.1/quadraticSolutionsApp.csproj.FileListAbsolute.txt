@@ -1,0 +1,13 @@
+C:\Users\Jones\Desktop\quadraticSolutionsApp\bin\Debug\netcoreapp3.1\quadraticSolutionsApp.exe
+C:\Users\Jones\Desktop\quadraticSolutionsApp\bin\Debug\netcoreapp3.1\quadraticSolutionsApp.deps.json
+C:\Users\Jones\Desktop\quadraticSolutionsApp\bin\Debug\netcoreapp3.1\quadraticSolutionsApp.runtimeconfig.json
+C:\Users\Jones\Desktop\quadraticSolutionsApp\bin\Debug\netcoreapp3.1\quadraticSolutionsApp.runtimeconfig.dev.json
+C:\Users\Jones\Desktop\quadraticSolutionsApp\bin\Debug\netcoreapp3.1\quadraticSolutionsApp.dll
+C:\Users\Jones\Desktop\quadraticSolutionsApp\bin\Debug\netcoreapp3.1\quadraticSolutionsApp.pdb
+C:\Users\Jones\Desktop\quadraticSolutionsApp\obj\Debug\netcoreapp3.1\quadraticSolutionsApp.csprojAssemblyReference.cache
+C:\Users\Jones\Desktop\quadraticSolutionsApp\obj\Debug\netcoreapp3.1\quadraticSolutionsApp.AssemblyInfoInputs.cache
+C:\Users\Jones\Desktop\quadraticSolutionsApp\obj\Debug\netcoreapp3.1\quadraticSolutionsApp.AssemblyInfo.cs
+C:\Users\Jones\Desktop\quadraticSolutionsApp\obj\Debug\netcoreapp3.1\quadraticSolutionsApp.csproj.CoreCompileInputs.cache
+C:\Users\Jones\Desktop\quadraticSolutionsApp\obj\Debug\netcoreapp3.1\quadraticSolutionsApp.dll
+C:\Users\Jones\Desktop\quadraticSolutionsApp\obj\Debug\netcoreapp3.1\quadraticSolutionsApp.pdb
+C:\Users\Jones\Desktop\quadraticSolutionsApp\obj\Debug\netcoreapp3.1\quadraticSolutionsApp.genruntimeconfig.cache
