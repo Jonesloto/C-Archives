@@ -1,0 +1,13 @@
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\bin\Debug\netcoreapp3.1\myapp.exe
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\bin\Debug\netcoreapp3.1\myapp.deps.json
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.json
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.dev.json
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\bin\Debug\netcoreapp3.1\myapp.dll
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\bin\Debug\netcoreapp3.1\myapp.pdb
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\obj\Debug\netcoreapp3.1\myapp.csprojAssemblyReference.cache
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfoInputs.cache
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfo.cs
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\obj\Debug\netcoreapp3.1\myapp.csproj.CoreCompileInputs.cache
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\obj\Debug\netcoreapp3.1\myapp.dll
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\obj\Debug\netcoreapp3.1\myapp.pdb
+C:\Users\Jones\Desktop\Sorting Machine\cs\myapp\obj\Debug\netcoreapp3.1\myapp.genruntimeconfig.cache
